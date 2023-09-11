@@ -1,5 +1,5 @@
 # Author Demeneopoulos Emmanouil
-This project was created by Demeneopoulos Emmanouil in order to practice React. It is a static web page with a digital business card of employee. This project is an exercise which was suggested from an online free youtube course named “React Course - Beginner's Tutorial for React JavaScript Library [2022]” from teacher is <<Bob Ziroll>>.
+This project was created by Demeneopoulos Emmanouil in order to practice React. It is a static web page with a digital business card of employee. This project is an exercise which was suggested from an online free youtube course named “React Course - Beginner's Tutorial for React JavaScript Library [2022]” and the teacher is Mr. Bob Ziroll.
 
 thanks you very mach Mr. Bob Ziroll.
 
