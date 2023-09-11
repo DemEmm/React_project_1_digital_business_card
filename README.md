@@ -3,7 +3,7 @@ This project was created by Demeneopoulos Emmanouil in order to practice React. 
 
 thanks you very mach Mr. Bob Ziroll.
 
-link: [https://www.youtube.com/watch?v=bMknfKXIFA8&t=704s](https://youtu.be/bMknfKXIFA8?si=q5JeVqzyk3ELkDjU&t=8551)
+link: https://youtu.be/bMknfKXIFA8?si=XWxmjNYctkdN1lqs&t=8538
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
