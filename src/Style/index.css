@@ -1,0 +1,119 @@
+body{
+    background-color: rgb(14, 14, 15);
+   
+}
+img{
+    width: 500px;
+    border-top-right-radius: 5%;
+    border-top-left-radius: 5%;
+  
+}
+.Card{
+    position: relative; 
+    margin: auto;
+    width: 500px;
+    height: 800px;
+    background-color: rgb(14, 14, 24);
+    border-radius: 5%;
+}
+.Top > h1{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    font-size:x-large;
+    text-align: center;
+color: aliceblue;
+}
+.Top > h2{
+    margin-top: 10px;
+    font-size: small;
+    text-align: center;
+    color: coral;
+}
+.buttons{
+    display: flex;
+}
+
+.e-mail{
+ 
+    text-align: center;
+    font-size:medium ;
+    border: none;
+    margin-left: auto;
+    margin-right: 10px;
+    background-color: white;
+    border-radius: 10%;
+    width: 120px;
+    height: 40px;
+}
+.e-mail  > a{
+    position: relative;
+    top:5px;
+}
+.linkdin  > a{
+    position: relative;
+    top:5px;
+}
+.linkdin{
+    text-align: center;
+    font-size:medium ;
+    color: aliceblue;
+    width: 120px;
+    height: 40px;
+    margin-right: auto;
+    margin-left: 10px;
+    background-color:cornflowerblue;
+    border-radius: 8%;
+}
+
+.Mid > h1 {
+    margin-left: 30px;
+    color: aliceblue;
+    font-size:x-large;
+}
+.Mid > h2 , h1 {
+    margin-left: 30px;
+    margin-right: 30px;
+    color: aliceblue;
+    font-size: small;
+}
+
+.Bot{
+    
+    display: flex;
+    position: absolute;
+    bottom: 0;
+    width: 500px;
+    height: 40px;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px ;
+    background-color: rgb(21, 21, 36);
+}
+.Bot > a{
+    margin: auto;
+}
+.fa:hover{
+    opacity: 0.7;
+}
+.fa{
+
+    font-size: 20px;
+    color: aliceblue;
+}
+.fa.linkedin{
+    position: relative;
+    top: 4px;
+    color: black;
+    margin-right : 10px ;
+}
+.fa.mail{
+    position: relative;
+    top: 6px;
+    color: black;
+    margin-right : 10px ;
+}
+/* button{
+    display: block;
+    margin: auto;
+    background-color: aqua;
+} */
+
