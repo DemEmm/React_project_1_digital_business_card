@@ -1,4 +1,4 @@
-# Authos Demeneopoulos Emmanouil
+# Author Demeneopoulos Emmanouil
 This project was created by Demeneopoulos Emmanouil in order to practice React. It is a static web page with a digital business card of employee.
 
 # Getting Started with Create React App
